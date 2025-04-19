@@ -55,8 +55,7 @@ The **Task Folder** contains all the necessary materials for the hackathon, incl
 - Mapping of restaurant density and cuisine-specific data.
 - Business insights based on restaurant ratings, votes, and online orders.
 
-## 🙋‍♀️ Author
-**Diya Kharel**  
+## 🙋‍♀️ Author 
 <p align="center">
   <a href="mailto:diyakharel4@gmail.com"><img src="https://img.shields.io/badge/Gmail-diyakharel4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/diyakharel/"><img src="https://img.shields.io/badge/LinkedIn-Diya%20Kharel-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
